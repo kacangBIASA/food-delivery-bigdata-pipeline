@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+.env
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# VS Code setting
+.vscode/
+
+# data
+data/
+alternative2_allinonedata/
+
+# Spark output/cache
+*.crc
+_SUCCESS
+
+# Temporary files
+*.log
+*.tmp
+
+# Output hasil olahan
+output/

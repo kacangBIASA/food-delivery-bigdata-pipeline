@@ -1,0 +1,5 @@
+Nama File,Fungsi,Jumlah Baris,Jumlah Kolom
+swiggy.csv,Dataset mentah restoran Swiggy,148541,11
+restaurant_master.csv,Data master restoran yang sudah dirapikan,148541,11
+simulated_food_orders.csv,Data transaksi simulasi untuk karakteristik Volume,500000,16
+stream_order_sample.csv,Data sample untuk simulasi streaming/Velocity,10000,16
