@@ -14,7 +14,10 @@ venv/
 .vscode/
 
 # data
-data/
+data/processed/
+data/raw/
+data/stream/stream_order_sample.csv
+data/stream/stream_input/*.csv
 alternative2_allinonedata/
 
 # Spark output/cache
