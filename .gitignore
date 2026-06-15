@@ -24,6 +24,4 @@ _SUCCESS
 # Temporary files
 *.log
 *.tmp
-
-# Output hasil olahan
-output/
+spark-temp/

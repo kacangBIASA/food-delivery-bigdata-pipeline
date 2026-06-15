@@ -1,0 +1,2109 @@
+cuisine,total_orders
+Indian,21632
+"North Indian,Chinese",21608
+Chinese,16696
+North Indian,16119
+"Indian,Chinese",14591
+South Indian,11201
+Bakery,10732
+"Chinese,Indian",7834
+"Chinese,North Indian",7707
+Biryani,7470
+"Bakery,Desserts",7467
+Pizzas,7422
+Beverages,7193
+"North Indian,Indian",6777
+Snacks,5851
+Fast Food,5606
+"Biryani,North Indian",5547
+"Chinese,Snacks",5540
+"Fast Food,Snacks",5457
+"Ice Cream,Desserts",5333
+"Biryani,Chinese",5097
+"North Indian,Biryani",4840
+"North Indian,South Indian",4496
+Desserts,4367
+"Chinese,Fast Food",4280
+"North Indian,Snacks",4191
+"South Indian,North Indian",4077
+"Biryani,Indian",4048
+"South Indian,Chinese",3862
+"North Indian,Punjabi",3680
+"Pizzas,Italian",3542
+"Beverages,Snacks",3480
+Ice Cream,3473
+"Desserts,Ice Cream",3433
+"Pizzas,Fast Food",3251
+"Indian,North Indian",3137
+"Indian,Snacks",2901
+"Indian,Biryani",2874
+"Beverages,Desserts",2755
+"Snacks,Beverages",2753
+"Snacks,Fast Food",2579
+"Beverages,Fast Food",2492
+"Desserts,Beverages",2476
+"Desserts,Bakery",2474
+"Chinese,Biryani",2448
+"North Indian,Mughlai",2398
+"Chinese,South Indian",2358
+"North Indian,Tandoor",2309
+"Sweets,Snacks",2251
+"Biryani,Mughlai",2114
+Sweets,2093
+"Fast Food,Beverages",1999
+"South Indian,Indian",1952
+"Fast Food,Chinese",1867
+"Pizzas,Pastas",1867
+"American,Snacks",1847
+"Chinese,Asian",1842
+"Fast Food,Pizzas",1789
+"Pizzas,Snacks",1784
+"Beverages,Ice Cream",1775
+"North Indian,Thalis",1726
+"Snacks,Chinese",1704
+"Bakery,Snacks",1672
+"North Indian,Fast Food",1652
+"Chinese,Beverages",1644
+"Italian,Pizzas",1632
+"Biryani,South Indian",1627
+American,1617
+"Chinese,Thai",1586
+"Juices,Beverages",1560
+"Chinese,Continental",1506
+Italian,1496
+"American,Fast Food",1465
+"Snacks,Indian",1460
+Arabian,1415
+"Ice Cream,Beverages",1399
+"Pizzas,Beverages",1399
+"Beverages,Juices",1396
+"Bakery,Beverages",1395
+"South Indian,Snacks",1360
+"Biryani,Hyderabadi",1341
+"South Indian,Biryani",1337
+"Mughlai,North Indian",1280
+"Indian,South Indian",1250
+Continental,1220
+"Biryani,Kebabs",1215
+"Indian,Tandoor",1180
+"North Indian,Desserts",1177
+"Beverages,Chinese",1156
+"Indian,Beverages",1147
+"Chinese,Italian",1139
+"Indian,Fast Food",1123
+"Healthy Food,Salads",1092
+"Fast Food,Italian",1072
+"North Indian,Beverages",1055
+"Italian,Fast Food",1054
+"Chaat,Snacks",1036
+Chaat,1030
+"Indian,Thalis",1024
+"Pizzas,American",1001
+"Fast Food,North Indian",978
+"Pizzas,Chinese",959
+"Biryani,Snacks",944
+"Chinese,Tandoor",933
+"South Indian,Beverages",902
+"Asian,Chinese",899
+Street Food,895
+"Sweets,Desserts",878
+"Burgers,Beverages",865
+"Bakery,Fast Food",864
+"North Indian,Barbecue",845
+"Italian,Mexican",841
+"Continental,Italian",839
+"American,Beverages",822
+"Chinese,Pizzas",767
+"Snacks,North Indian",764
+"Arabian,Chinese",763
+"Chinese,Tibetan",762
+"Street Food,Indian",750
+"Punjabi,North Indian",742
+Juices,740
+"Italian,Chinese",726
+"Italian,Continental",717
+"Fast Food,Indian",712
+"Desserts,Sweets",705
+"Snacks,Sweets",675
+"Chinese,Pan-Asian",661
+"North Indian,Continental",660
+"Street Food,Snacks",657
+Mughlai,650
+"Indian,Continental",641
+"Continental,Beverages",620
+"Beverages,Pizzas",615
+"Indian,Mughlai",611
+"Desserts,Snacks",604
+"Fast Food,American",601
+"North Indian,Kebabs",600
+"Continental,Chinese",591
+"Biryani,Tandoor",578
+"American,Continental",574
+"Bakery,Pizzas",557
+"Italian,Beverages",552
+"Chinese,Combo",542
+"Pizzas,Continental",539
+Paan,539
+"Ice Cream,Bakery",527
+"South Indian,Fast Food",521
+Maharashtrian,519
+Bengali,516
+"Pizzas,Burgers",515
+"Thalis,Indian",511
+"Arabian,Snacks",509
+"Arabian,Lebanese",506
+"Thalis,North Indian",505
+"Indian,Desserts",503
+"Snacks,Pizzas",502
+"Chinese,Seafood",487
+"Bakery,Sweets",479
+"Andhra,Biryani",470
+"Maharashtrian,North Indian",467
+"Chinese,Desserts",465
+"Continental,North Indian",460
+"Punjabi,Chinese",458
+Thalis,453
+"Italian-American,Fast Food",441
+"North Indian,Combo",440
+"Arabian,Fast Food",438
+"Biryani,Andhra",431
+"Continental,Snacks",427
+"Tibetan,Healthy Food",425
+"Tandoor,North Indian",423
+"Snacks,Chaat",423
+"Indian,Seafood",423
+"Biryani,Beverages",421
+"Chinese,Mughlai",417
+"Italian,Snacks",405
+"Beverages,Indian",403
+"Indian,Combo",402
+"Street Food,Fast Food",400
+"Mughlai,Biryani",396
+"Indian,Pizzas",396
+"Arabian,Biryani",395
+"Continental,Indian",394
+"Fast Food,Street Food",393
+Lebanese,392
+"Continental,American",388
+"Snacks,Desserts",387
+"American,Italian",386
+"American,Pizzas",385
+"North Indian,Pizzas",385
+"Biryani,Arabian",384
+"Continental,Pizzas",380
+"Sweets,Bakery",378
+"Beverages,Bakery",376
+"Tandoor,Chinese",376
+"Tibetan,Chinese",370
+"Street Food,Chinese",366
+"Chinese,Pastas",364
+"Beverages,Italian",362
+Mexican,361
+"Bakery,Chinese",359
+"Italian,American",359
+"Beverages,North Indian",359
+"Snacks,South Indian",357
+"Chinese,Arabian",355
+"North Indian,Italian",354
+"North Indian,Sweets",354
+"Biryani,Fast Food",349
+"Sweets,North Indian",347
+"Tandoor,Indian",346
+"North Indian,Seafood",345
+"Pizzas,Desserts",344
+Unknown,342
+"Beverages,Continental",342
+"Snacks,American",339
+"Healthy Food,Beverages",337
+"Bengali,Indian",335
+"Fast Food,Desserts",328
+"Indian,Italian",327
+"Italian,Desserts",325
+Healthy Food,322
+"Waffle,Desserts",319
+"Chinese,American",319
+"South Indian,Desserts",318
+"Bengali,Chinese",315
+"Mughlai,Indian",315
+"Bengali,North Indian",309
+"Arabian,North Indian",308
+"Pan-Asian,Chinese",305
+"Chinese,Street Food",303
+"Pizzas,Italian-American",301
+"North Indian,Home Food",298
+"South Indian,Kerala",295
+Punjabi,293
+"Snacks,Street Food",286
+"Home Food,North Indian",286
+"Arabian,Beverages",283
+"Snacks,Biryani",282
+"Biryani,Desserts",281
+"Chaat,Fast Food",276
+"Desserts,Fast Food",275
+"Arabian,Indian",274
+"Continental,Fast Food",273
+"Kerala,South Indian",273
+"Burgers,Fast Food",273
+"Biryani,Combo",272
+"South Indian,Chettinad",271
+"North Indian,Chaat",271
+"Street Food,North Indian",268
+"Healthy Food,Pizzas",266
+"Chaat,North Indian",264
+"Pastas,Pizzas",262
+"North Indian,Maharashtrian",262
+"Andhra,South Indian",259
+"Indian,Punjabi",259
+"Pizzas,North Indian",256
+"Ice Cream,Healthy Food",253
+Gujarati,248
+"Salads,Snacks",245
+"Tandoor,Biryani",245
+"Continental,Desserts",244
+"Indian,Kebabs",242
+"Chaat,Chinese",239
+"Pizzas,Indian",239
+"North Indian,Street Food",236
+"Fast Food,Healthy Food",234
+"Kebabs,North Indian",233
+"Indian,Sweets",232
+"Bengali,Thalis",229
+"Biryani,Barbecue",227
+"Fast Food,Salads",226
+"South Indian,Andhra",226
+"Chaat,Street Food",222
+"Fast Food,Pastas",222
+"Chinese,Punjabi",220
+"Beverages,Biryani",220
+"Sweets,Indian",219
+"Beverages,South Indian",219
+"American,Chinese",218
+"Fast Food,South Indian",210
+"Home Food,Indian",210
+"Bakery,Italian",205
+"Beverages,Italian-American",204
+"American,Desserts",204
+"Beverages,American",203
+Salads,201
+Seafood,200
+"North Indian,Arabian",198
+"Street Food,Beverages",198
+"Bakery,Indian",198
+"South Indian,Street Food",197
+"North Indian,Bengali",195
+"Kebabs,Snacks",195
+"Sweets,Chaat",193
+"Healthy Food,Continental",193
+"Cafe,Beverages",190
+"Bakery,Continental",189
+"Juices,Snacks",188
+"Healthy Food,Keto",188
+"Chinese,Kebabs",188
+"Beverages,Healthy Food",187
+"Street Food,Chaat",182
+"Mughlai,Chinese",181
+"Juices,Ice Cream",180
+"Maharashtrian,Snacks",179
+"Ice Cream,Ice Cream Cakes",178
+"Italian,North Indian",178
+"Bengali,Biryani",178
+"Fast Food,Continental",177
+"Chinese,Oriental",177
+"North Indian,Healthy Food",176
+"Healthy Food,Snacks",176
+"Chinese,Chaat",176
+Kerala,176
+"Biryani,Thalis",175
+"Indian,Arabian",175
+"Biryani,Chettinad",175
+"Burgers,Snacks",173
+"Snacks,Italian",173
+"Sweets,South Indian",172
+Tandoor,172
+"South Indian,Sweets",170
+"Italian,Indian",167
+"Street Food,South Indian",167
+"Lebanese,Arabian",165
+Combo,162
+"Seafood,Indian",162
+"Chettinad,South Indian",161
+"Waffle,Beverages",161
+"Kebabs,Indian",161
+"Cafe,Fast Food",159
+"North Indian,Rajasthani",159
+"Chinese,Thalis",159
+"Fast Food,Chaat",158
+"Kerala,Biryani",158
+"Indian,Asian",156
+"Thai,Chinese",156
+"Indian,Bakery",155
+"Indian,Bengali",155
+"American,Burgers",155
+"Kebabs,Biryani",154
+"Ice Cream,Juices",154
+"North Indian,American",154
+"Chaat,Beverages",153
+"Arabian,Tandoor",152
+"Punjabi,Indian",152
+"Indian,Maharashtrian",151
+Cafe,151
+"Healthy Food,Juices",151
+"South Indian,Combo",151
+"Italian-American,Chinese",150
+"South Indian,Arabian",150
+"South Indian,Thalis",149
+"Bakery,Ice Cream",149
+"Lebanese,Snacks",148
+"Juices,Salads",147
+"Beverages,Chaat",146
+"Indian,Chaat",145
+"Juices,Fast Food",145
+Kebabs,144
+"Beverages,Salads",144
+"Ice Cream,Snacks",143
+"Fast Food,Combo",143
+"Fast Food,Biryani",142
+"Desserts,Pizzas",140
+"Tandoor,Snacks",139
+"Snacks,Bakery",136
+"Salads,Healthy Food",135
+"Sweets,Beverages",135
+"South Indian,Seafood",134
+"Gujarati,Snacks",134
+"Mexican,American",134
+"South Indian,Chaat",133
+"Pizzas,Bakery",133
+"Fast Food,Juices",131
+"Pizzas,Combo",129
+"Indian,Street Food",128
+"Fast Food,Burgers",128
+"Snacks,Arabian",127
+Pastas,127
+"Sweets,Fast Food",126
+"Chinese,Italian-American",126
+"Combo,Indian",125
+"Chaat,Indian",124
+"Kebabs,Chinese",124
+"Indian,American",123
+"Lebanese,Fast Food",123
+Andhra,123
+"Italian,Pastas",122
+"Arabian,Kebabs",122
+"Maharashtrian,Indian",122
+"Chinese,Japanese",121
+"Fast Food,Bakery",121
+"Seafood,Chinese",120
+"Chinese,Lebanese",119
+"Pizzas,Salads",119
+"Healthy Food,North Indian",118
+"Tandoor,Kebabs",117
+"Chinese,Bengali",115
+Asian,115
+"Bakery,Combo",115
+"Burgers,Pizzas",115
+"Italian-American,Snacks",114
+"Sweets,Chinese",114
+"North Indian,Gujarati",113
+Burgers,113
+"Arabian,Barbecue",112
+"Biryani,Seafood",112
+"Thalis,Combo",112
+"Italian-American,Pizzas",112
+"North Indian,Bihari",111
+"Arabian,South Indian",109
+"Chaat,South Indian",109
+"Seafood,North Indian",108
+"Chinese,Burgers",108
+"Hyderabadi,Biryani",107
+"Desserts,Italian",107
+"Juices,Desserts",107
+"Snacks,Burgers",106
+"American,Indian",105
+"Indian,Healthy Food",105
+"Arabian,Grill",104
+"Snacks,Kebabs",104
+"Kerala,Chinese",103
+"Italian,Salads",102
+"Snacks,Maharashtrian",101
+Tibetan,101
+"Indian,Salads",101
+"Snacks,Tandoor",101
+"American,Mexican",100
+"Desserts,Continental",100
+"Gujarati,Punjabi",100
+"European,Italian",100
+"Healthy Food,Home Food",99
+"Gujarati,Indian",98
+"Chinese,Maharashtrian",98
+"Snacks,Juices",98
+"Bakery,American",97
+"Continental,Healthy Food",96
+"Chettinad,Chinese",96
+"Salads,Beverages",95
+"Fast Food,Ice Cream",94
+"Ice Cream,Pizzas",94
+"Ice Cream,Fast Food",93
+"Snacks,Continental",93
+Burmese,92
+"Salads,Fast Food",91
+"Beverages,Pastas",91
+"Sushi,Japanese",91
+"American,Salads",91
+"Maharashtrian,Thalis",89
+"Mexican,Italian",89
+"Andhra,Chinese",89
+"Desserts,Chinese",89
+"Continental,Bakery",89
+"Bengali,Snacks",88
+"Chinese,Bakery",88
+"Tandoor,Mughlai",88
+"Paan,Desserts",87
+"Arabian,Continental",87
+"Snacks,Healthy Food",86
+"Asian,Japanese",86
+"Indian,Oriental",85
+"South Indian,Pizzas",85
+"Beverages,Combo",85
+"Snacks,Grill",85
+"Afghani,Biryani",83
+"North Indian,Asian",83
+"Mughlai,Tandoor",83
+"Paan,Beverages",83
+"Gujarati,Thalis",82
+"Desserts,Indian",82
+Rajasthani,82
+"Kebabs,Tandoor",82
+"Arabian,Pizzas",82
+"Healthy Food,Indian",81
+"Snacks,Salads",81
+Waffle,81
+"American,Pastas",80
+"Japanese,Sushi",80
+"Snacks,Thalis",80
+Barbecue,80
+"North Indian,Salads",80
+"Biryani,Grill",80
+"Desserts,Waffle",79
+"Thalis,Biryani",79
+"South Indian,Healthy Food",78
+"Italian-American,Beverages",78
+"Asian,Continental",78
+"Snacks,Combo",77
+"Healthy Food,Fast Food",77
+"Italian,Bakery",77
+"Pizzas,Ice Cream",77
+"Fast Food,Arabian",77
+"Continental,European",77
+"Biryani,Maharashtrian",76
+"Continental,Salads",76
+"Chinese,Salads",76
+"Gujarati,North Indian",76
+"Snacks,Ice Cream",75
+"Barbecue,Chinese",75
+"Seafood,Snacks",75
+"Japanese,Asian",75
+"Chinese,Juices",74
+Bihari,74
+"Maharashtrian,Street Food",74
+"Chaat,Sweets",74
+"Street Food,Pizzas",74
+"Waffle,Bakery",73
+"Lebanese,Middle Eastern",73
+"Indian,Home Food",73
+"South Indian,Continental",72
+"Beverages,Waffle",72
+"Combo,Chinese",72
+"Fast Food,Italian-American",72
+"Indian,Pastas",72
+"American,Bakery",72
+"Pastas,Beverages",71
+"Lebanese,Beverages",71
+"Lebanese,Chinese",71
+"Bengali,Bangladeshi",71
+"Kebabs,Mughlai",71
+"American,North Indian",71
+"Arabian,Juices",70
+"Beverages,Bengali",69
+"South Indian,Juices",69
+"Biryani,Kerala",69
+"Combo,Thalis",69
+"South Indian,Home Food",69
+"Healthy Food,American",69
+"Hyderabadi,North Indian",68
+"Combo,North Indian",68
+"Arabian,American",67
+"Bakery,North Indian",67
+"Asian,North Indian",67
+"Burgers,Healthy Food",67
+"Grill,Arabian",66
+"American,European",66
+"Kerala,Seafood",66
+"Street Food,Sweets",66
+"Punjabi,Snacks",65
+"North Indian,Italian-American",65
+"Barbecue,Biryani",65
+"Chinese,Grill",65
+"Chinese,Ice Cream",64
+"Maharashtrian,Biryani",64
+"Snacks,Pastas",64
+"Beverages,Street Food",64
+"Rajasthani,North Indian",64
+"Salads,Continental",63
+"Pizzas,Juices",63
+European,63
+"Thalis,Fast Food",62
+"Pizzas,South Indian",62
+"Pizzas,Mexican",62
+"Desserts,American",62
+"Indian,Juices",61
+"North Indian,Bakery",60
+"Indian,Gujarati",60
+"European,Continental",60
+"Pizzas,Street Food",60
+"Tandoor,Arabian",60
+"South Indian,Tandoor",59
+"Pastas,Snacks",59
+Pan-Asian,59
+"Barbecue,Arabian",59
+"Pastas,Italian",58
+"Desserts,North Indian",58
+"Juices,Healthy Food",58
+"Punjabi,Tandoor",58
+"Beverages,Burgers",58
+"Kerala,North Indian",57
+Hyderabadi,57
+"North Indian,Jain",57
+"Healthy Food,Desserts",57
+"Snacks,Mughlai",57
+"Street Food,Desserts",56
+"Thalis,Punjabi",56
+"Cafe,Chinese",56
+"Beverages,Arabian",56
+"North Indian,Andhra",56
+"Pizzas,Biryani",56
+"Chaat,Juices",56
+"Asian,Thai",56
+"Snacks,Seafood",55
+"Continental,Juices",55
+"Lebanese,North Indian",55
+"Rajasthani,Thalis",55
+"Cafe,Snacks",55
+"Biryani,Lebanese",54
+"North Indian,Pastas",54
+"Barbecue,North Indian",54
+Haleem,53
+"Salads,Juices",53
+"Thalis,Chinese",53
+"Kerala,Indian",53
+"American,Arabian",53
+"Assamese,Chinese",53
+"Andhra,North Indian",53
+"Mexican,Snacks",52
+"Healthy Food,Pastas",52
+"Asian,Indian",52
+"Mexican,Beverages",52
+"American,Biryani",51
+"Seafood,South Indian",51
+"Kerala,Arabian",51
+"Barbecue,Indian",51
+"Thalis,Rajasthani",51
+"Punjabi,Gujarati",51
+"Biryani,Pizzas",51
+"Mexican,Salads",51
+Italian-American,50
+"Seafood,Biryani",50
+"North Indian,Grill",50
+"North Indian,Lebanese",50
+"Bihari,North Indian",50
+"Indian,Rajasthani",49
+"Biryani,Continental",49
+"Maharashtrian,South Indian",49
+"Bengali,Continental",48
+"Snacks,Gujarati",48
+"Andhra,Indian",48
+"Continental,Mexican",48
+"Lebanese,Pizzas",48
+Home Food,47
+"Pastas,Fast Food",47
+Thai,47
+"Sweets,Street Food",47
+"Fast Food,Lebanese",47
+"Biryani,Bengali",47
+"Thai,Asian",47
+"Indian,Kerala",46
+"Fast Food,Sweets",46
+"Mexican,Fast Food",46
+"Desserts,Healthy Food",45
+"Street Food,Juices",45
+"Pan-Asian,Japanese",45
+"American,Italian-American",44
+"Desserts,Juices",44
+"Arabian,Turkish",44
+"Cafe,Pizzas",44
+"Continental,Asian",44
+"Grill,Fast Food",44
+"American,Healthy Food",44
+Korean,43
+"Barbecue,Grill",43
+"Barbecue,Fast Food",43
+Japanese,43
+"Bengali,Mughlai",43
+"Continental,Pastas",43
+"Bakery,Burgers",43
+"South Indian,Maharashtrian",43
+"Lebanese,Kebabs",42
+"Bakery,Juices",42
+"American,Asian",42
+"Chinese,Nepalese",42
+"Indian,Andhra",42
+"Punjabi,Biryani",42
+"Chinese,Kerala",42
+"Street Food,Biryani",42
+"Rajasthani,Indian",42
+"Afghani,Chinese",42
+"Fast Food,Tandoor",41
+"South Indian,Italian",41
+"Goan,Seafood",41
+"Healthy Food,South Indian",41
+"North Indian,Afghani",41
+"Fast Food,Grill",41
+"Andhra,Beverages",40
+"Mexican,Desserts",40
+"Mughlai,Snacks",40
+"Mughlai,Kebabs",40
+"Bakery,Chaat",40
+"Goan,Indian",40
+"Asian,Tibetan",40
+"Lebanese,Biryani",40
+"Cafe,Desserts",40
+"Italian,Mediterranean",40
+"Arabian,Kerala",39
+"Tibetan,Asian",39
+"Ice Cream,Chinese",39
+"Biryani,Sweets",39
+"Home Food,South Indian",39
+"Bengali,Seafood",38
+"Salads,Desserts",38
+"Pan-Asian,Thai",38
+"Indian,Thai",38
+"North Indian,Thai",38
+"Bengali,Fast Food",38
+"Barbecue,Snacks",38
+"Bengali,Sweets",37
+Sushi,37
+"Coastal,Seafood",37
+"Grill,Indian",37
+"Ice Cream,Indian",37
+Afghani,37
+"Chinese,Sushi",37
+"Beverages,Sweets",37
+"Maharashtrian,Punjabi",37
+"North Indian,Juices",37
+"Indian,Ice Cream",37
+"Bengali,Desserts",37
+"Chaat,Desserts",37
+"South Indian,Ice Cream",37
+"Biryani,Juices",36
+"Afghani,Indian",36
+"Continental,Thai",36
+"South Indian,Punjabi",36
+"Healthy Food,Italian",36
+"Chinese,Healthy Food",36
+Grill,36
+"Chinese,Barbecue",36
+"Pizzas,Chaat",35
+"Thalis,Gujarati",35
+"Grill,Seafood",35
+"Salads,Italian",35
+"Chinese,Malaysian",35
+"Juices,Chinese",35
+"Portuguese,African",35
+"Desserts,South Indian",34
+"Pastas,Chinese",34
+"Continental,Oriental",34
+"Punjabi,Thalis",34
+"Chaat,Continental",34
+"Seafood,Malwani",34
+"Italian,Tandoor",34
+"Hyderabadi,Mughlai",34
+"Asian,Korean",34
+"Fast Food,Mexican",34
+"Fast Food,Kebabs",34
+"Afghani,Arabian",33
+"Snacks,Lebanese",33
+"Bihari,Indian",33
+"Lebanese,Indian",33
+"Cafe,Italian",33
+"North Indian,Hyderabadi",33
+"Chaat,Pizzas",33
+"Continental,Ice Cream",32
+"Combo,Beverages",32
+"Desserts,Biryani",32
+"Home Food,Healthy Food",32
+"Combo,Fast Food",32
+"Grill,Snacks",32
+"Cafe,American",32
+"Juices,Pizzas",32
+"Asian,Burmese",32
+"Burgers,Chinese",32
+"Arabian,Burgers",32
+"Seafood,Tandoor",32
+"Mangalorean,Seafood",31
+"Lebanese,Grill",31
+"Biryani,Salads",31
+"Bakery,Cafe",31
+"Chinese,Gujarati",31
+North Eastern,31
+"Chinese,Goan",31
+"Indian,Burgers",31
+"Indian,Mexican",31
+"North Indian,Mexican",31
+"Oriental,Chinese",31
+"Indian,Italian-American",30
+"Cafe,Indian",30
+"Gujarati,Rajasthani",30
+"Street Food,American",30
+8:15 To 11:30 Pm,30
+"Street Food,Maharashtrian",30
+"Biryani,Italian",30
+"Thalis,Bengali",30
+"Hyderabadi,Indian",30
+"Mughlai,Fast Food",29
+"Kebabs,Fast Food",29
+"Bakery,Italian-American",29
+"Home Food,Thalis",29
+"Japanese,Pan-Asian",29
+"Kebabs,Grill",29
+"Lebanese,Continental",29
+"Mughlai,Seafood",29
+"Lebanese,American",28
+Turkish,28
+Goan,28
+"Tandoor,Fast Food",28
+"Japanese,Thai",28
+"Maharashtrian,Seafood",28
+"Pizzas,Kebabs",28
+"American,Lebanese",28
+"Bakery,Biryani",28
+"Healthy Food,Bakery",28
+"Thalis,Snacks",28
+"Indian,Barbecue",28
+"Continental,Italian-American",28
+"North Indian,Ice Cream",28
+"Chaat,Italian",28
+"Burgers,Italian",28
+"South Indian,Kebabs",28
+"Grill,Chinese",27
+"Combo,Biryani",27
+"Chinese,Chettinad",27
+"Bakery,Waffle",27
+"Tibetan,Nepalese",27
+"Continental,Pan-Asian",27
+"Juices,Chaat",27
+"South Indian,Bakery",27
+"Bengali,Italian",27
+"Barbecue,Tandoor",27
+"North Indian,European",27
+"Assamese,North Indian",27
+"Afghani,Mughlai",27
+"Chettinad,North Indian",27
+"Punjabi,Mughlai",27
+"Beverages,Cafe",26
+"Chaat,Ice Cream",26
+"Italian,South Indian",26
+Parsi,26
+"French,Continental",26
+"Japanese,Chinese",26
+"Grill,Barbecue",25
+"Salads,Pizzas",25
+"Nepalese,Chinese",25
+"Chinese,Sweets",25
+"Afghani,North Indian",25
+"South Indian,Mughlai",25
+"Snacks,Bengali",25
+"Combo,Snacks",25
+"Maharashtrian,Chinese",25
+"Burgers,Pastas",25
+"Italian,Combo",25
+"Sweets,Juices",25
+"Grill,Tandoor",25
+"Fast Food,Bengali",24
+"Goan,North Indian",24
+"Street Food,Continental",24
+"Juices,North Indian",24
+"Chettinad,Thalis",24
+"South Indian,Hyderabadi",24
+"Thalis,Beverages",24
+"Arabian,Desserts",24
+"Continental,Arabian",24
+"Thalis,South Indian",23
+"Maharashtrian,Malwani",23
+"Kebabs,Arabian",23
+"Italian,European",23
+"Fast Food,Waffle",23
+"South Indian,Grill",23
+"Tibetan,Desserts",23
+"Arabian,Italian",23
+"Salads,Mexican",23
+"Continental,Biryani",23
+"British,American",23
+"Naga,Chinese",23
+"Fast Food,Punjabi",23
+"North Eastern,Chinese",23
+"Sweets,Bengali",23
+"Kebabs,South Indian",23
+"Sweets,Ice Cream",23
+"Beverages,Mughlai",22
+"Asian,Italian",22
+"Tex-Mex,Salads",22
+"Biryani,Street Food",22
+"Chinese,Jain",22
+"Nepalese,Tibetan",22
+"Tibetan,Snacks",22
+"Lebanese,Tandoor",22
+Mediterranean,22
+"Thalis,Maharashtrian",22
+"Kebabs,Beverages",22
+Middle Eastern,22
+"North Indian,Oriental",22
+"Turkish,Arabian",22
+"Mughlai,Punjabi",22
+"Burmese,Chinese",22
+"Salads,Indian",22
+"Waffle,Ice Cream",22
+"Snacks,Italian-American",21
+"Arabian,Street Food",21
+"Indian,Lebanese",21
+"Waffle,Snacks",21
+"Cafe,North Indian",21
+"Seafood,Thalis",21
+"Ice Cream,Chaat",21
+"North Indian,Lucknowi",21
+"Pizzas,Arabian",21
+"Gujarati,Chinese",21
+"Malwani,Seafood",21
+"Beverages,Grill",21
+"Indian,Afghani",21
+"Biryani,Punjabi",21
+"American,Barbecue",21
+"Lebanese,Mediterranean",21
+"Seafood,Coastal",21
+"Chinese,Hyderabadi",21
+"Italian-American,Desserts",21
+"Italian,Burgers",21
+"Kebabs,Barbecue",20
+"Maharashtrian,Fast Food",20
+"Desserts,Cafe",20
+"Italian,Seafood",20
+"Middle Eastern,Arabian",20
+"Ice Cream,Waffle",20
+"Beverages,Lebanese",20
+"Salads,Pastas",20
+"Arabian,Middle Eastern",20
+"Lebanese,Desserts",20
+"Assamese,Indian",20
+"Indian,Bihari",20
+"Pizzas,Healthy Food",20
+"Arabian,Mughlai",20
+"South Indian,Jain",20
+"Healthy Food,Jain",20
+"Salads,Chinese",20
+"Pizzas,Sweets",20
+"Italian,Spanish",19
+"Pizzas,Grill",19
+"Mughlai,Beverages",19
+"Seafood,Mangalorean",19
+"Arabian,Ice Cream",19
+"Jain,North Indian",19
+"American,Combo",19
+"Punjabi,Rajasthani",19
+"Maharashtrian,Mughlai",19
+"Desserts,Chaat",19
+"Chinese,Coastal",19
+"Continental,Grill",19
+"Salads,American",19
+"Biryani,Haleem",19
+Assamese,19
+"Thalis,Desserts",19
+"Mexican,Chinese",19
+"Chaat,Bakery",18
+"Awadhi,Mughlai",18
+"Andhra,Tandoor",18
+"Italian,Healthy Food",18
+"Asian,Beverages",18
+"Mexican,Continental",18
+"Rajasthani,Snacks",18
+"Continental,Tandoor",18
+"Mangalorean,North Indian",18
+"Bengali,Tandoor",18
+"American,Juices",18
+"Italian,Ice Cream",18
+"Italian-American,Combo",18
+"Barbecue,Beverages",18
+"North Indian,Kashmiri",18
+"Bakery,Ice Cream Cakes",18
+"Street Food,Tex-Mex",18
+"Tandoor,Beverages",18
+"Chinese,Mexican",18
+"Chinese,Burmese",18
+"Seafood,Pizzas",17
+"Grill,North Indian",17
+"Bakery,Pastas",17
+"Italian,Lebanese",17
+"Bengali,Beverages",17
+"Seafood,Beverages",17
+"Fast Food,Thalis",17
+"British,Beverages",17
+"Arabian,Mediterranean",17
+"North Indian,Kerala",17
+"Indian,Hyderabadi",17
+"Lucknowi,North Indian",17
+"Seafood,Bengali",17
+"Home Food,Bengali",17
+"Japanese,Korean",17
+"Chinese,Afghani",17
+"Kerala,Snacks",17
+"Burmese,Street Food",17
+"Maharashtrian,Beverages",17
+"Gujarati,Sweets",17
+"Desserts,Paan",17
+"Snacks,Barbecue",17
+"Pastas,Indian",17
+"Snacks,Punjabi",16
+"Italian,Juices",16
+"Burgers,American",16
+"Asian,Snacks",16
+"Mexican,Pizzas",16
+"Pan-Asian,Tibetan",16
+"Cafe,Bakery",16
+"Burgers,Desserts",16
+"South Indian,Coastal",16
+"American,Street Food",16
+"British,Snacks",16
+"Beverages,Paan",16
+"Kerala,Beverages",16
+"Street Food,Italian",16
+"Andhra,Asian",16
+"Desserts,Middle Eastern",16
+French,16
+"Salads,Lebanese",15
+"Indian,Assamese",15
+"Indian,Coastal",15
+"Italian,Mughlai",15
+"Healthy Food,Biryani",15
+"Desserts,Street Food",15
+"South Indian,Pastas",15
+"Korean,Chinese",15
+"Tandoor,Punjabi",15
+"Continental,South Indian",15
+"Pan-Asian,Asian",15
+"Goan,Continental",15
+"South Indian,Gujarati",15
+"Bakery,South Indian",15
+"Maharashtrian,Gujarati",15
+"Continental,Mediterranean",15
+"Arabian,Chettinad",15
+"Coastal,Mangalorean",15
+"Mediterranean,Lebanese",15
+"Fast Food,Cafe",15
+"Burgers,Indian",15
+"Street Food,Ice Cream",15
+"Snacks,Asian",15
+"Juices,Continental",15
+"Goan,Chinese",15
+"European,Indian",15
+"Juices,South Indian",14
+"Chinese,Vietnamese",14
+"Juices,Street Food",14
+"Malwani,North Indian",14
+"Awadhi,Biryani",14
+"Ice Cream Cakes,Desserts",14
+"Barbecue,Kebabs",14
+"Ice Cream,Sweets",14
+"Italian-American,North Indian",14
+"Chinese,North Eastern",14
+"Sushi,Asian",14
+"Paan,Indian",14
+"Korean,Sushi",14
+"Arabian,Salads",14
+"Sushi,Chinese",14
+"Healthy Food,Mexican",14
+"Biryani,Ice Cream",14
+"Italian,Asian",14
+"Hyderabadi,Chinese",14
+"Asian,Fast Food",14
+"Desserts,European",14
+"Thai,Indian",13
+"Snacks,Mexican",13
+"Hyderabadi,South Indian",13
+"Spanish,Snacks",13
+"Biryani,Lucknowi",13
+"Pizzas,Cafe",13
+"Mughlai,Lucknowi",13
+"Combo,Salads",13
+"Arabian,Afghani",13
+Awadhi,13
+"Desserts,Mughlai",13
+"Fast Food,Maharashtrian",13
+"Tandoor,Barbecue",13
+"Biryani,Rayalaseema",13
+"Chinese,Singaporean",13
+"Mexican,Tex-Mex",13
+"Indian,Jain",13
+"Oriya,North Indian",13
+"Ice Cream,North Indian",13
+"Desserts,Salads",13
+"Biryani,Coastal",13
+"Mexican,Mediterranean",13
+"Mughlai,Afghani",13
+"Beverages,Mexican",13
+"Hyderabadi,Andhra",13
+"Mexican,North Indian",13
+"Tibetan,North Indian",13
+"European,Chinese",13
+"Tandoor,Seafood",13
+Nepalese,13
+"Oriental,Continental",13
+"North Indian,Burgers",13
+Naga,13
+"Sweets,Combo",12
+"Seafood,Kerala",12
+"European,American",12
+"Pan-Asian,Fast Food",12
+"Indonesian,Chinese",12
+Chettinad,12
+"Indian,Middle Eastern",12
+"Ice Cream,Street Food",12
+"Sweets,Continental",12
+"American,Chaat",12
+"Street Food,Bakery",12
+"Lebanese,Burgers",12
+"Awadhi,Punjabi",12
+"Fast Food,Gujarati",12
+"Continental,Combo",12
+"Desserts,Thai",12
+"Burmese,Fast Food",12
+"Andhra,Seafood",12
+"Awadhi,Indian",12
+"Italian,Street Food",12
+"Asian,Pan-Asian",12
+"Street Food,Gujarati",12
+"Chaat,Biryani",12
+"Pizzas,European",12
+"Cafe,Continental",12
+"Fast Food,Middle Eastern",12
+"Barbecue,American",12
+Oriya,12
+"SVANidhi Street Food Vendor,Indian",12
+"Fast Food,Seafood",12
+"American,Steakhouse",11
+"South Indian,American",11
+"American,Cafe",11
+"Continental,Barbecue",11
+"Bakery,Street Food",11
+"Assamese,Naga",11
+"Gujarati,Fast Food",11
+"Grill,Continental",11
+"Indian,Singaporean",11
+"Korean,Beverages",11
+"Chinese,Malwani",11
+"Pastas,Continental",11
+"Pizzas,Tandoor",11
+"Bengali,Combo",11
+"Fast Food,Barbecue",11
+"Ice Cream,American",11
+"Continental,Lebanese",11
+"Thai,Bhutanese",11
+"Mughlai,Awadhi",11
+"Biryani,Gujarati",11
+"Pan-Asian,Sushi",11
+Lucknowi,11
+"Lucknowi,Kebabs",11
+"Indian,Goan",11
+"Italian,Italian-American",11
+"Pastas,North Indian",11
+"Punjabi,Beverages",11
+"Seafood,Barbecue",11
+"Punjabi,South Indian",11
+"Konkan,Malwani",11
+"French,Pastas",11
+"Paan,Sweets",11
+"Awadhi,North Indian",11
+"Bihari,Rajasthani",11
+"Indian,Pan-Asian",11
+"Street Food,Arabian",11
+"American,Assamese",10
+"Street Food,Thalis",10
+"Pastas,Salads",10
+"Healthy Food,Ice Cream",10
+"Arabian,Mexican",10
+"Goan,Malwani",10
+"Chinese,Assamese",10
+"Asian,European",10
+"Seafood,Asian",10
+"Malwani,Maharashtrian",10
+"Grill,Biryani",10
+"Seafood,Arabian",10
+"Italian-American,Indian",10
+"Japanese,Continental",10
+"Seafood,Mughlai",10
+"Arabian,Haleem",10
+"Beverages,European",10
+"Parsi,Biryani",10
+"Indian,North Eastern",10
+"Arabian,French",10
+"Chinese,European",10
+"Biryani,Burgers",10
+"Arabian,Combo",10
+"Kashmiri,North Indian",10
+"Asian,Sushi",10
+"European,Snacks",10
+"North Indian,Mangalorean",10
+"Sweets,Biryani",10
+"Continental,Steakhouse",10
+"North Indian,Malwani",10
+"Indian,Chettinad",10
+"Continental,Chaat",10
+"Paan,Ice Cream",10
+"Thalis,Tandoor",10
+"Paan,Fast Food",10
+Popular Brand Store,10
+"Snacks,Waffle",10
+"Beverages,Kebabs",10
+"Biryani,Bihari",10
+"Italian,Arabian",10
+"Asian,Oriental",10
+"Asian,Desserts",10
+"Continental,Kebabs",10
+"Combo,Pizzas",10
+"Kebabs,Salads",10
+"Punjabi,Bengali",10
+"Kerala,Tandoor",10
+"Mangalorean,South Indian",10
+"Korean,Japanese",10
+"Bihari,Beverages",10
+"Cafe,Juices",9
+"Continental,Seafood",9
+"North Indian,Pan-Asian",9
+"Salads,Arabian",9
+"Bakery,Mexican",9
+"Burgers,Mexican",9
+"Rayalaseema,Biryani",9
+"Lebanese,Combo",9
+"Seafood,Fast Food",9
+"Lebanese,Italian-American",9
+"Combo,American",9
+"Mexican,Healthy Food",9
+"Chinese,Home Food",9
+"Continental,Burgers",9
+"Singaporean,Malaysian",9
+"Seafood,Andhra",9
+"Oriental,Thai",9
+"Tandoor,Afghani",9
+"Barbecue,Mughlai",9
+"Bangladeshi,Bengali",9
+"Afghani,Tandoor",9
+"Salads,North Indian",9
+"Home Food,Desserts",9
+"Lebanese,Salads",9
+"Healthy Food,Chinese",9
+"Fast Food,Tibetan",9
+"American,Grill",9
+"Cafe,South Indian",9
+"Ice Cream,Biryani",9
+"Mexican,Asian",9
+"Italian-American,European",9
+"Italian-American,Bakery",9
+"Jain,South Indian",9
+"European,Mediterranean",9
+Malwani,9
+"Combo,Healthy Food",9
+"Maharashtrian,Desserts",9
+"Juices,Arabian",9
+"Seafood,Goan",9
+"Combo,Home Food",9
+"North Indian,Nepalese",9
+"Middle Eastern,Lebanese",9
+"Bakery,Salads",9
+"Andhra,Rayalaseema",9
+"Mangalorean,Chinese",9
+"Seafood,Maharashtrian",9
+"Healthy Food,Kebabs",9
+"Healthy Food,Barbecue",9
+"Biryani,Bakery",9
+"South Indian,Mangalorean",9
+"Salads,European",9
+"Lucknowi,Biryani",9
+"Punjabi,Pastas",9
+"North Indian,Sindhi",9
+"Snacks,Home Food",9
+"Italian-American,Continental",9
+"South American,Beverages",9
+"European,Fast Food",9
+"American,Andhra",9
+"Oriental,Italian",9
+"Tandoor,Ice Cream",9
+"American,Ice Cream",9
+"Vietnamese,Chinese",9
+"Lebanese,Turkish",9
+"Beverages,Maharashtrian",9
+"Mughlai,Desserts",9
+"Desserts,Pastas",9
+"Pan-Asian,North Indian",9
+Oriental,9
+"Burgers,Grill",9
+"Italian-American,Asian",9
+"American,British",8
+"Jain,Indian",8
+"Punjabi,Fast Food",8
+"Biryani,American",8
+"Punjabi,Italian",8
+"Beverages,Keto",8
+"Andhra,Coastal",8
+"Bengali,South Indian",8
+"Asian,Healthy Food",8
+"North Eastern,Fast Food",8
+Coastal,8
+"Hyderabadi,Tandoor",8
+"Chaat,American",8
+"Chettinad,Biryani",8
+"Afghani,Fast Food",8
+"Kebabs,Combo",8
+"Asian,Seafood",8
+"Mediterranean,Beverages",8
+"Bakery,Healthy Food",8
+"Punjabi,Maharashtrian",8
+"Andhra,Desserts",8
+"Fast Food,Mughlai",8
+"Ice Cream,Italian",8
+"Bhutanese,Nepalese",8
+"Turkish,Lebanese",8
+"British,Continental",8
+"Indian,European",8
+"Barbecue,Burgers",8
+"Mangalorean,Biryani",8
+"Andhra,Arabian",8
+"Mughlai,Pizzas",8
+"Korean,Fast Food",8
+"Salads,Combo",8
+"South Indian,Asian",8
+Special Discount from (Hotel Swagath),8
+"Italian-American,Chaat",8
+"Desserts,Mexican",8
+"Continental,Cafe",8
+"North Indian,Oriya",8
+"Italian,Chaat",8
+"Ice Cream,Continental",8
+"Fast Food,European",8
+"North Eastern,Indian",8
+"Lebanese,Tibetan",8
+"Biryani,Healthy Food",8
+"Cafe,Chaat",8
+"Pizzas,Jain",8
+"Indian,Grill",8
+"North Indian,Chettinad",8
+"Chinese,Naga",8
+"Bakery,Arabian",8
+"Punjabi,Combo",8
+"Indian,Burmese",8
+"Oriental,Asian",8
+"Biryani,North Eastern",7
+"Bihari,Street Food",7
+"Barbecue,Pizzas",7
+"Biryani,Awadhi",7
+"Bakery,Turkish",7
+"Bihari,Sweets",7
+"North Eastern,Punjabi",7
+"American,Nepalese",7
+"Persian,Chinese",7
+Persian,7
+"Mughlai,Combo",7
+"Chaat,Rajasthani",7
+"Indian,Naga",7
+Jain,7
+"Fast Food,Pan-Asian",7
+"Biryani,Afghani",7
+"Indian,Oriya",7
+"Bihari,Chinese",7
+"Persian,Indian",7
+"Desserts,Combo",7
+"Kebabs,Continental",7
+"Continental,Goan",7
+"Juices,Pastas",7
+"Chettinad,Indian",7
+"Continental,Coastal",7
+"Combo,South Indian",7
+"Grill,Lebanese",7
+"Pizzas,Lebanese",7
+"Bihari,Thalis",7
+"Afghani,Grill",7
+"Mughlai,Hyderabadi",7
+"Burmese,Indian",7
+"South Indian,Salads",7
+"Indian,Malwani",7
+"Mediterranean,Arabian",7
+"Asian,Nepalese",7
+"Sweets,Healthy Food",7
+"Punjabi,Juices",7
+"Tandoor,Salads",7
+"Jain,Chinese",7
+"Beverages,Kerala",7
+"Grill,Combo",7
+"Mexican,Indian",7
+"Chinese,Andhra",7
+"Pan-Asian,Snacks",7
+"Biryani,Chaat",7
+"Middle Eastern,Mediterranean",7
+"Italian-American,Healthy Food",7
+"Italian-American,Burgers",7
+"Burgers,Continental",7
+"North Indian,Cafe",7
+"Cafe,Pastas",7
+"Bhutanese,Chinese",7
+"Pizzas,Mediterranean",7
+"Juices,Paan",7
+"South Indian,Rajasthani",7
+"Chaat,Combo",7
+"American,Kebabs",7
+"Juices,Biryani",7
+"Ice Cream,South Indian",7
+"Mangalorean,Indian",7
+"Desserts,French",7
+"Asian,Awadhi",7
+"Beverages,Thalis",7
+"Oriya,Indian",7
+"Grill,Kebabs",7
+"Gujarati,South Indian",7
+"Turkish,Middle Eastern",7
+"Oriya,Sweets",6
+"Oriental,Tandoor",6
+"North Indian,Goan",6
+"Beverages,Rajasthani",6
+"Grill,Salads",6
+"Steakhouse,Healthy Food",6
+"Grill,Chaat",6
+"Assamese,Bengali",6
+"Turkish,Salads",6
+"Mediterranean,Mexican",6
+"Street Food,Thai",6
+"Chettinad,Kerala",6
+"Nepalese,Asian",6
+"Sweets,Pizzas",6
+"Haleem,Biryani",6
+"Oriya,Snacks",6
+"Bakery,Kerala",6
+"Italian-American,Waffle",6
+"Lucknowi,Desserts",6
+"Grill,South Indian",6
+"European,Oriental",6
+"Asian,Mughlai",6
+"European,South American",6
+"Tibetan,Beverages",6
+"Sweets,Punjabi",6
+"American,Jain",6
+"North Eastern,Snacks",6
+"Andhra,Chettinad",6
+"Combo,Afghani",6
+"Chinese,Waffle",6
+"Tandoor,Grill",6
+"Snacks,Sindhi",6
+"Indian,Mangalorean",6
+Ice Cream Cakes,6
+"Tandoor,Thalis",6
+"Chinese,Rajasthani",6
+"Ice Cream,Italian-American",6
+"South Indian,Barbecue",6
+"French,Desserts",6
+"Asian,Goan",6
+"Burmese,Pan-Asian",6
+"Bakery,Use Code JUMBO30 to avail",6
+"Fast Food,Kerala",6
+"Indian,Nepalese",6
+"Turkish,Mediterranean",6
+"Coastal,Indian",6
+"Maharashtrian,Pizzas",6
+"Mexican,Oriental",6
+"Burgers,Street Food",6
+"Italian-American,Ice Cream",6
+"Ice Cream,Cafe",6
+"Jain,Pizzas",6
+"Biryani,Attractive Combos Available",6
+"Desserts,Pan-Asian",6
+"Rajasthani,Beverages",6
+"Burmese,South Indian",6
+"Kerala,Desserts",6
+"Pan-Asian,Singaporean",6
+"Korean,Asian",6
+"Juices,American",6
+"Oriya,Chinese",6
+"Chaat,Punjabi",6
+"Mediterranean,European",6
+"Sindhi,North Indian",6
+"Punjabi,Chaat",6
+"European,Asian",6
+"Pastas,American",6
+"Thai,Snacks",6
+"American,French",6
+"Snacks,European",6
+"Thalis,Sweets",6
+"Indian,Japanese",6
+"Oriental,North Indian",6
+"Burgers,North Indian",6
+"Naga,Thalis",6
+"American,Waffle",6
+"Desserts,Bengali",6
+"South Indian,Italian-American",6
+"Andhra,Snacks",6
+"British,Fast Food",6
+"Cafe,Waffle",6
+"Malwani,Chinese",6
+"Indian,Kashmiri",6
+"Thai,Malaysian",6
+"Coastal,Continental",6
+"Goan,Snacks",6
+"Beverages,Chettinad",6
+"Oriya,Bengali",6
+"Gujarati,Jain",6
+"Seafood,Pastas",6
+"Snacks,British",6
+"Mangalorean,Coastal",6
+"Bihari,Pizzas",6
+"Healthy Food,Sweets",6
+"Asian,Bakery",6
+"Tibetan,Mangalorean",6
+"Japanese,Desserts",6
+"Cafe,Healthy Food",6
+"Bakery,European",6
+"Mediterranean,Salads",6
+"South Indian,North Eastern",6
+"Sindhi,Snacks",5
+"Indian,Paan",5
+"Kebabs,Punjabi",5
+"Tandoor,Oriental",5
+"Street Food,Healthy Food",5
+"Kashmiri,Mughlai",5
+"British,Italian",5
+"Chinese,British",5
+"Mughlai,Maharashtrian",5
+"Biryani,Home Food",5
+"Chaat,Salads",5
+"Ice Cream,Keto",5
+"Seafood,Desserts",5
+"Continental,Bengali",5
+"Healthy Food,Grill",5
+"South American,Fast Food",5
+"Gujarati,Combo",5
+"Mediterranean,Desserts",5
+"Bengali,Oriya",5
+"Home Food,Snacks",5
+"Desserts,Turkish",5
+"Naga,Assamese",5
+"Tibetan,North Eastern",5
+"Combo,Continental",5
+"Tandoor,Combo",5
+"Italian-American,Pastas",5
+"American,Keto",5
+"Japanese,Indian",5
+"Healthy Food,Greek",5
+Sindhi,5
+"Snacks,Cafe",5
+"Rajasthani,Bihari",5
+"Arabian,Asian",5
+"Chinese,Korean",5
+"Italian,Pan-Asian",5
+"Haleem,Desserts",5
+"Seafood,Healthy Food",5
+"Desserts,Asian",5
+"Grill,Italian",5
+"Discount offer from Garden Cafe Express Kankurgachi,Tandoor",5
+"Waffle,Fast Food",5
+"European,Pizzas",5
+"Gujarati,Continental",5
+"Chaat,Italian-American",5
+"Indian,Telangana",5
+"Mediterranean,Indian",5
+"Chinese,Australian",5
+"Beverages,Ice Cream Cakes",5
+"Lebanese,Barbecue",5
+"Sweets,Thalis",5
+"Healthy Food,Lebanese",5
+Greek,5
+"Korean,Seafood",5
+"Juices,Sweets",5
+"Seafood,Kebabs",5
+"Cafe,Goan",5
+"Burgers,Italian-American",5
+"Telangana,Andhra",5
+"Vietnamese,Asian",5
+"Pastas,Desserts",5
+"South American,Andhra",5
+"Haleem,Sweets",5
+"Japanese,Fast Food",5
+"Lebanese,Haleem",5
+"German,Italian",5
+"Bakery,Bengali",5
+"Oriental,Indian",5
+"Waffle,Burgers",5
+"Turkish,American",5
+"Continental,Sweets",5
+"Beverages,Tandoor",5
+"European,Desserts",5
+"Kerala,Continental",5
+"Afghani,Combo",5
+"Italian-American,Barbecue",5
+"Pan-Asian,American",5
+"Nepalese,Indian",5
+"Thai,Korean",5
+"Kebabs,Desserts",5
+"Thalis,Assamese",5
+"Thai,Pan-Asian",5
+"Asian,Singaporean",5
+"Andhra,Hyderabadi",5
+"Asian,Turkish",5
+"Biryani,French",5
+"North Eastern,South Indian",5
+"Bihari,Desserts",5
+"Desserts,Home Food",5
+"Burmese,Thai",5
+"Barbecue,Salads",5
+"Pizzas,Bowl Company",5
+"Haleem,Arabian",5
+"Mughlai,Italian",5
+"European,Bakery",5
+"Street Food,Italian-American",5
+"Maharashtrian,Thai",5
+"Gujarati,Street Food",5
+"Barbecue,Continental",5
+Kashmiri,5
+"South Indian,Lebanese",5
+"Italian,German",5
+"Fast Food,Nepalese",5
+"Italian-American,Keto",5
+"Pastas,Biryani",5
+"Rajasthani,Combo",5
+"Chettinad,Snacks",5
+"Singaporean,Chinese",5
+"Street Food,Kebabs",5
+"Goan,Tandoor",5
+"Assamese,Italian",5
+"Pan-Asian,Oriental",5
+"Coastal,Goan",5
+"Combo,Mughlai",5
+"Ice Cream,Pastas",4
+"South Indian,Turkish",4
+"Persian,Snacks",4
+"Barbecue,Portuguese",4
+"Vietnamese,Korean",4
+"Italian-American,Mexican",4
+"Maharashtrian,Tandoor",4
+"Paan,Combo",4
+"Beverages,Australian",4
+"Thai,Salads",4
+"Japanese,North Indian",4
+"Kerala,Mangalorean",4
+"Goan,Maharashtrian",4
+"Juices,Lebanese",4
+"Sri Lankan,Seafood",4
+"French,Indian",4
+"Chaat,Gujarati",4
+"Lebanese,Mexican",4
+Konkan,4
+"Sushi,Continental",4
+"Tibetan,Pan-Asian",4
+"Burmese,American",4
+"Arabian,Seafood",4
+"Beverages,British",4
+"Biryani,Turkish",4
+"Seafood,Continental",4
+"Healthy Food,Street Food",4
+"Bakery,Lebanese",4
+"North Indian,Awadhi",4
+"Pizzas,British",4
+Khasi,4
+"Beverages,Korean",4
+"American,Mughlai",4
+"Seafood,British",4
+"Bakery,Mughlai",4
+"Mangalorean,Snacks",4
+"Greek,Salads",4
+"Tandoor ,indian",4
+"Goan,Pizzas",4
+"Chinese,Mongolian",4
+"Indian,Meat",4
+"Mangalorean,Kerala",4
+"Chettinad,Tandoor",4
+"Bihari,Bengali",4
+"Mexican,Punjabi",4
+"Italian,Punjabi",4
+"Haleem,North Indian",4
+"Afghani,Bengali",4
+"Chaat,Thalis",4
+"Desserts,Maharashtrian",4
+"Persian,Kebabs",4
+"Turkish,European",4
+"Sindhi,Indian",4
+"British,Indian",4
+"Biryani,Pastas",4
+"American,Bengali",4
+"Snacks,Telangana",4
+"South Indian,Burmese",4
+"Middle Eastern,Desserts",4
+"Beverages,Punjabi",4
+"Salads,Thai",4
+"Lebanese,Mughlai",4
+"Street Food,Tibetan",4
+"Seafood,Combo",4
+"Persian,Beverages",4
+"Seafood,Konkan",4
+"Mexican,Jain",4
+"Italian-American,American",4
+"Bengali,Kebabs",4
+"Maharashtrian,Combo",4
+"Haleem,Indian",4
+"Tandoor,Pastas",4
+"South Indian,Burgers",4
+"Indian,Malaysian",4
+"Bihari,Snacks",4
+"Thalis,Home Food",4
+"American,Mediterranean",4
+"Bakery,Grill",4
+"Fast Food,Thai",4
+"Pan-Asian,Beverages",4
+"Italian,Kebabs",4
+"Combo,Grill",4
+"Continental,Japanese",4
+"French,American",4
+"Pan-Asian,Indian",4
+"Vietnamese,Pizzas",4
+"Punjabi,Continental",4
+"Juices,Waffle",4
+"Bakery,Goan",4
+"Assamese,Sweets",4
+"Desserts,Arabian",4
+"Continental,Nepalese",4
+"Juices,Indian",4
+"Hyderabadi,Lucknowi",4
+"Sweets,American",4
+"Goan,Mangalorean",4
+"Nepalese,Tandoor",4
+"Kebabs,Malwani",4
+"Pizzas,Ice Cream Cakes",4
+"Kebabs,Lucknowi",4
+"Thai,Italian",4
+"Kebabs,Andhra",4
+"North Indian,Keto",4
+"Healthy Food,Pan-Asian",4
+"French,Beverages",4
+"Tibetan,Fast Food",4
+"Coastal,Andhra",4
+"Continental,Tibetan",4
+"Italian,Thai",4
+"Combo,Maharashtrian",4
+"Andhra,Kerala",4
+"Bakery,Tandoor",4
+"Keto,Beverages",4
+"Indian,Cafe",4
+"Arabian,Mangalorean",4
+"Hyderabadi,Arabian",4
+"Bangladeshi,Indian",4
+"Indian,Haleem",4
+"Arabian,Pastas",4
+"Chettinad,Andhra",4
+Bakery products,4
+"Tandoor,American",4
+"American,Pan-Asian",4
+"Turkish,Barbecue",4
+"Tibetan,Italian",4
+"Thalis,Continental",4
+"Chaat,Paan",4
+"Thalis,Seafood",4
+"Street Food,Tandoor",4
+"Punjabi,Mexican",4
+"Barbecue,Lebanese",4
+"Indian,Biryani - Shivaji Military Hotel",4
+"Fast Food,Haleem",4
+"Tibetan,Lebanese",4
+"Italian-American,South Indian",4
+"Pizzas,Gujarati",4
+"Steakhouse,Continental",4
+"Tandoor,Pizzas",4
+"Afghani,Bangladeshi",3
+"Mughlai,Juices",3
+"Assamese,Thai",3
+"Snacks,Jain",3
+"Turkish,Fast Food",3
+"Sushi,Mexican",3
+"Waffle,Chinese",3
+"North Indian,North Eastern",3
+"Chaat,Jain",3
+"Asian,Combo",3
+"Kerala,Italian",3
+"SVANidhi Street Food Vendor,Snacks",3
+"Sushi,North Eastern",3
+"Asian,Salads",3
+"Coastal,Chinese",3
+"Indonesian,Fast Food",3
+"Fast Food,Afghani",3
+"European,South Indian",3
+"North Eastern,Korean",3
+"Grill,Pizzas",3
+"Biryani,Malwani",3
+"Persian,Arabian",3
+"Greek,Ice Cream",3
+"Korean,Pan-Asian",3
+"Japanese,Mediterranean",3
+"Italian,Middle Eastern",3
+"Gujarati,Biryani",3
+"Seafood,Sweets",3
+"Rajasthani,Maharashtrian",3
+"South Indian,Telangana",3
+"Chinese,Mangalorean",3
+"Healthy Food,Thai",3
+"Vietnamese,Pan-Asian",3
+"Street Food,Lebanese",3
+"Punjabi,Desserts",3
+"Chinese,Oriya",3
+"Kerala,Grill",3
+"SVANidhi Street Food Vendor,South Indian",3
+"Healthy Food,Cafe",3
+"Combo,Ice Cream",3
+"Burgers,Ice Cream",3
+"Seafood,Tribal",3
+"Kebabs,Afghani",3
+"Burmese,Chaat",3
+"Andhra,Telangana",3
+"Middle Eastern,Oriental",3
+"Chaat,Mughlai",3
+"Bengali,Andhra",3
+"Fast Food,Home Food",3
+"Jain,Rajasthani",3
+Default,3
+"Ice Cream Cakes,North Indian",3
+"French,European",3
+"Thai,Oriental",3
+"Ice Cream,Pan-Asian",3
+"Chinese,Cafe",3
+"Street Food,Mexican",3
+"Desserts,Hyderabadi",3
+"Paan,South Indian",3
+"Tandoor,Continental",3
+"Beverages,Seafood",3
+"Tibetan,American",3
+"Bihari,Lucknowi",3
+"Thalis,Salads",3
+"Chettinad,Grill",3
+"Japanese,Ice Cream",3
+"Cafe,Ice Cream",3
+"Tribal,Seafood",3
+"Punjabi,Cafe",3
+"Kebabs,Bakery",3
+"Japanese,Indonesian",3
+"Rajasthani,Gujarati",3
+"Fast Food,Turkish",3
+"Tandoor,Italian",3
+"Naga,Continental",3
+"Kebabs,Lebanese",3
+"Home Food,Naga",3
+"Mediterranean,Middle Eastern",3
+"Snacks,Code valid on bill over Rs.99",3
+"Kebabs,Burgers",3
+"Sindhi,Seafood",3
+"Burmese,Indonesian",3
+"Pastas,Sweets",3
+"European,French",3
+"Bengali,Pastas",3
+"Salads,Seafood",3
+"Lebanese,British",3
+"Desserts,Kebabs",3
+"Pizzas,Burmese",3
+"Healthy Food,Combo",3
+"Keto,Salads",3
+"Grill,Jain",3
+"Italian-American,Tex-Mex",3
+"Biryani,Asian",3
+"Spanish,Mexican",3
+"Fast Food,Paan",3
+"Mughlai,Turkish",3
+"Cafe,European",3
+"Salads,Tandoor",3
+"Cafe,Turkish",3
+"Juices,Burgers",3
+"Indian,Parsi",3
+"Goan,Home Food",3
+"Tibetan,Arabian",3
+"Tibetan,Indian",3
+"Kerala,Home Food",3
+"SVANidhi Street Food Vendor,Ice Cream",3
+"Barbecue,Italian-American",3
+"Gujarati,Italian",3
+"Healthy Food,Arabian",3
+"Continental,Chettinad",3
+"Pizzas,Barbecue",3
+"Afghani,Italian",3
+"Bengali,Street Food",3
+"South Indian,Keto",3
+"Arabian,Tibetan",3
+"Malaysian,Thai",3
+"Cafe,Biryani",3
+"Lucknowi,Bihari",3
+"Kebabs,Sweets",3
+"Middle Eastern,Biryani",3
+"Thalis,Street Food",3
+"Middle Eastern,Fast Food",3
+"Kerala,Juices",3
+"Sweets,Andhra",3
+"Parsi,Snacks",3
+"Andhra,Home Food",3
+"Desserts,British",3
+"North Eastern,Thalis",3
+"Ice Cream,Paan",3
+"Chinese,Lucknowi",3
+"Indonesian,Malaysian",3
+"Indian,Turkish",3
+"Mexican,European",3
+Free Delivery ! Limited Stocks!,3
+"Chaat,Use code XPRESS121 to avail.",3
+"Continental,Home Food",3
+"Desserts,Greek",3
+"Mughlai,Arabian",3
+Keto,3
+"Fast Food,Oriental",3
+"Beverages,Asian",3
+"Indonesian,Arabian",3
+"Ice Cream,Burgers",3
+"North Indian,Mediterranean",3
+"Kebabs,American",3
+"Maharashtrian,Kebabs",3
+"Middle Eastern,Mughlai",3
+"Thai,Vietnamese",3
+"Biryani,Mexican",3
+"Continental,Hyderabadi",3
+"Keto,Combo",3
+"Cafe,Mediterranean",3
+"Combo,Kebabs",3
+"South Indian,Japanese",3
+"French,Fast Food",3
+"Thai,Seafood",2
+"Chaat,Kerala",2
+"Assamese,Mughlai",2
+"Chinese,French",2
+"Street Food,Burgers",2
+"Fast Food,Asian",2
+"Goan,Italian",2
+"Parsi,Desserts",2
+"Keto,Healthy Food",2
+"Pizzas,Seafood",2
+"Thai,Biryani",2
+"North Indian,Navratri Special",2
+"Italian,Bihari",2
+"Lucknowi,Mughlai",2
+"Afghani,American",2
+"American,Goan",2
+"Cafe,Combo",2
+"Pizzas,Waffle",2
+"American,Thai",2
+"Malaysian,Indian",2
+"Punjabi,Healthy Food",2
+"Steakhouse,American",2
+"Salads,Bakery",2
+"British,Street Food",2
+"Italian-American,Mughlai",2
+"Asian,Indonesian",2
+"Pan-Asian,Seafood",2
+"Punjabi,Seafood",2
+"Street Food,Seafood",2
+"Pastas,Combo",2
+"Asian,Biryani",2
+"Burmese,Kerala",2
+"American,Korean",2
+"Thalis,Italian",2
+"Italian,Steakhouse",2
+"Healthy Food,Gujarati",2
+"Nepalese,Thalis",2
+"Italian,French",2
+"Mughlai,Continental",2
+"Afghani,Barbecue",2
+"Afghani,European",2
+"Biryani,Cafe",2
+"Fast Food,Rajasthani",2
+"Mangalorean,Malwani",2
+"Combo,Kerala",2
+"Tibetan,Korean",2
+"Juices,Grill",2
+"Continental,Korean",2
+"Oriental,Italian-American",2
+"Naga,Indian",2
+"Street Food,Burmese",2
+"Jain,Desserts",2
+"Bangladeshi,Beverages",2
+"Gujarati,Desserts",2
+"Oriya,South Indian",2
+"Indian,South American",2
+"Mexican,Korean",2
+"Mediterranean,Seafood",2
+"North Indian,Sri Lankan",2
+"Indonesian,Juices",2
+"Street Food,Asian",2
+"Goan,Portuguese",2
+"Italian-American,Kebabs",2
+Malaysian,2
+"Andhra,Combo",2
+"Thalis,Healthy Food",2
+"Snacks,Tibetan",2
+"Malwani,South Indian",2
+"Assamese,Thalis",2
+"Punjabi,Street Food",2
+"Jain,Thalis",2
+"Sweets,Gujarati",2
+"Hyderabadi,Maharashtrian",2
+"Grill,American",2
+"Street Food,Combo",2
+"Italian-American,Biryani",2
+"Continental,Jain",2
+"South Indian,Waffle",2
+"Indian,Tibetan",2
+"Fast Food,Portuguese",2
+"Lebanese,Italian",2
+"Snacks,Afghani",2
+"Awadhi,Lucknowi",2
+"African,Indian",2
+"Tandoor,South Indian",2
+"Mughlai,American",2
+"Thalis,Jain",2
+"Continental,BEVERAGE",2
+"Continental,Parsi",2
+"Middle Eastern,Indian",2
+"Italian,British",2
+"Hyderabadi,Home Food",2
+"Middle Eastern,Tandoor",2
+"Ice Cream,Tibetan",2
+"Snacks,Korean",2
+"Maharashtrian,Goan",2
+"Asian,Bengali",2
+"Awadhi,Barbecue",2
+"Mediterranean,Combo",2
+"Kerala,American",2
+"South Indian,Tibetan",2
+"Sweets,Italian",2
+"Chettinad,North Eastern",2
+"Snacks,Haleem",2
+"Middle Eastern,Barbecue",2
+"Hyderabadi,Sweets",2
+"Rajasthani,Punjabi",2
+"Thalis,Chaat",2
+"Ice Cream,Salads",2
+"American,Portuguese",2
+"Cafe,Burgers",2
+"Haleem,Hyderabadi",2
+"Burgers,Bakery",2
+"Italian-American,African",2
+"Salads,Asian",2
+"Burmese,Lebanese",2
+"Combo,Bengali",2
+"Continental,Punjabi",2
+"Assamese,Seafood",2
+"North Indian,Turkish",2
+"Desserts,Punjabi",2
+"Korean,Snacks",2
+"Chaat,Cafe",2
+"North Eastern,Mughlai",2
+"Maharashtrian,Salads",2
+"Assamese,Tribal",2
+"Bengali,Assamese",2
+"Mughlai,Kashmiri",2
+"Street Food,Indonesian",2
+"Afghani,South Indian",2
+"Indian,Tandoor",2
+"Fast Food,Andhra",2
+"Home Food,Beverages",2
+"British,Pizzas",2
+"Barbecue,South Indian",2
+"Italian,Biryani",2
+"Desserts,Haleem",2
+"Korean,Continental",2
+"Oriya,Seafood",2
+"Grocery products,Popular Brand Store",2
+"Sindhi,Chaat",2
+"Street Food,Grill",2
+"Ice Cream,Mexican",2
+"North Indian,Middle Eastern",2
+"Mangalorean,Kebabs",1
+"Sindhi,South Indian",1
+"Coastal,South Indian",1
+"Maharashtrian,Jain",1
+"North Indian,Naga",1
+"Chaat,Tandoor",1
+"Chaat,Maharashtrian",1
+"Lucknowi,Indian",1
+"Mughlai,Thalis",1
+"Healthy Food,Turkish",1
+"Juices,Bakery",1
+"Mexican,Pastas",1
+"Haleem,Mughlai",1
+"Biryani,Kashmiri",1
+"Chettinad,Seafood",1
+"Italian,Mongolian",1
+"Chinese,Indonesian",1
+"Pan-Asian,Assamese",1
+"Middle Eastern,Turkish",1
+"North Eastern,Beverages",1
+"Pastas,Bakery",1
+"Japanese,Mughlai",1
+"Snacks,Goan",1
+"Mediterranean,Snacks",1
+"Telangana,Biryani",1
+"Mughlai,South Indian",1
+"Seafood,Oriya",1
+"Fast Food,Keto",1
+"Barbecue,Italian",1
+"Seafood,Home Food",1
+"Haleem,South Indian",1
+"Goan,South Indian",1
+"Healthy Food,European",1
+"American,Tandoor",1
+"Fast Food,French",1
+"Andhra,Fast Food",1
+"Indian,Waffle",1
+"Bengali,Punjabi",1
+"Fast Food,Jain",1
+"Fast Food,Japanese",1
+"Afghani,Hyderabadi",1
+"Keto,Asian",1
+"American,Turkish",1
+"Jain,Street Food",1
+"Desserts,Gujarati",1
+"Coastal,Arabian",1
+"Continental,Maharashtrian",1
+"Sushi,Oriental",1
+"Salads,Italian-American",1
+"Bengali,North Eastern",1
+"Arabian,Hyderabadi",1
+"Steakhouse,Pastas",1
+"Maharashtrian,Chaat",1
+"Oriental,Pizzas",1
+"South Indian,British",1
+"Thai,Indonesian",1
+"Bengali,American",1
+"North Eastern,American",1
+"African,Bakery",1
+"African,Continental",1
+"British,Chinese",1
+"South Indian,Bengali",1
+"Bengali,Home Food",1
+"Indonesian,Japanese",1
+"Maharashtrian,Home Food",1
+"Middle Eastern,Healthy Food",1
+"Salads,Keto",1
+"Singaporean,Asian",1
+"Malwani,Indian",1
+"Kashmiri,Desserts",1
+"Thalis,Naga",1
+"Tibetan,Combo",1
+"Vietnamese,Snacks",1
+"Home Food,Maharashtrian",1
+"British,North Indian",1
+"Mughlai,Street Food",1
+"Goan,Hyderabadi",1
+"Maharashtrian,Continental",1
+"Beverages,French",1
+"German,Desserts",1

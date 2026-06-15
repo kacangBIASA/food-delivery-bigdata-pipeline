@@ -1,0 +1,822 @@
+city,total_orders
+Bikaner,5658
+Noida-1,4761
+"Indirapuram,Delhi",4359
+"Rohini,Delhi",3962
+"BTM,Bangalore",3905
+"Kothrud,Pune",3644
+"Indiranagar,Bangalore",3592
+"Electronic City,Bangalore",3485
+"Greater Kailash 2,Delhi",3471
+"Vashi,Mumbai",3439
+"Viman Nagar,Pune",3316
+"Kukatpally,Hyderabad",3314
+"Koramangala,Bangalore",3284
+"sohna road,Gurgaon",3277
+"Laxmi Nagar,Delhi",3095
+"Madhapur,Hyderabad",3075
+"Malviya Nagar,Delhi",3050
+"HSR,Bangalore",3049
+"Gomti Nagar,Lucknow",3006
+"Wakad,Pune",2916
+"Raj Nagar,Noida",2856
+"Central Kolkata,Kolkata",2694
+"Jadavpur,Kolkata",2633
+"Baner,Pune",2630
+"Bandra West,Mumbai",2618
+"Aliganj,Lucknow",2614
+"Powai,Mumbai",2594
+Patna,2584
+"Magarpatta,Pune",2525
+"Dwarka,Delhi",2473
+"Whitefield,Bangalore",2410
+"Rajouri Garden,Delhi",2384
+"Kammanahalli/Kalyan Nagar,Bangalore",2355
+"Kothapet & Dilsukhnagar,Hyderabad",2351
+"Banjara Hills,Hyderabad",2315
+"GTB Nagar,Delhi",2278
+"Bibwewadi,Pune",2265
+"Mayur Vihar,Delhi",2241
+Varanasi,2235
+"Arekere,Bangalore",2219
+"Salt Lake,Kolkata",2207
+"Dilshad Gardens,Delhi",2196
+"South Chd,Chandigarh",2177
+"Chattarpur,Delhi",2142
+Kanpur,2141
+Faridabad,2118
+"Chinar Park,Kolkata",2063
+"Old Gurgaon (Zone 6),Gurgaon",2048
+"Zirakpur,Chandigarh",2029
+"Vastrapur,Ahmedabad",2008
+"Kadubeesanahalli,Bangalore",1997
+"Marathahalli,Bangalore",1976
+"Vijay Nagar,Indore",1974
+"Manikonda,Hyderabad",1947
+"Governorpet,Vijayawada",1938
+"Lake Town,Kolkata",1929
+"Benz Circle and Auto Nagar,Vijayawada",1916
+Bhopal,1864
+Udaipur,1854
+"Annanagar,Chennai",1850
+"Kharadi,Pune",1848
+"Dumdum,Kolkata",1834
+"Ashok Vihar,Delhi",1831
+"Sanjay Nagar, New BEL Road,Bangalore",1779
+"Central Bangalore,Bangalore",1772
+"Uttam Nagar,Delhi",1768
+"Rajarhat,Kolkata",1761
+"Yelahanka,Bangalore",1720
+"Rajarajeshwari Nagar,Bangalore",1717
+"Hinjewadi,Pune",1685
+"Mulund,Mumbai",1685
+Allahabad,1660
+"Kondhwa,Pune",1658
+"Hadapsar,Pune",1652
+"Porur,Chennai",1634
+"PCMC,Pune",1632
+Raipur,1629
+"South Kolkata,Kolkata",1628
+"Dwarka Nagar,Vizag",1625
+"Perambur,Chennai",1620
+"NSP,Delhi",1618
+Madurai,1616
+"Piplod,Surat",1605
+"Greater Mohali,Chandigarh",1597
+"Scruz Bandra East,Mumbai",1593
+"North Mohali,Chandigarh",1592
+"Vasai,Mumbai",1591
+"Miyapur,Hyderabad",1580
+"Sadar,Nagpur",1576
+"Vasant Kunj,Delhi",1573
+"Lajpat Nagar,Delhi",1570
+"JP Nagar,Bangalore",1561
+Agra,1549
+"Ruby Area,Kolkata",1538
+Amritsar,1527
+North-goa,1525
+"Himayath Nagar,Hyderabad",1524
+Bhubaneswar,1524
+"Pimple Saudagar,Pune",1519
+"Bhosari,Pune",1508
+Gondal,1505
+"Navrangpura,Ahmedabad",1478
+Aurangabad,1475
+"Gachibowli,Hyderabad",1467
+"Wagholi,Pune",1460
+"Adyar,Chennai",1457
+"Vadapalani,Chennai",1457
+"Mogappair,Chennai",1446
+"Nizampet & Pragathi Nagar,Hyderabad",1443
+"Adajan,Surat",1439
+"Lingampally & Nalagandla,Hyderabad",1422
+"Shivaji Nagar,Pune",1421
+"Ganeshguri,Guwahati",1413
+"Garia,Kolkata",1404
+"Velachery,Chennai",1403
+"Hathibarkala,Dehradun",1388
+"Athwa,Surat",1369
+"Medavakkam,Chennai",1367
+Jodhpur,1363
+"Jasola,Delhi",1350
+"Howrah,Kolkata",1349
+"Bopal,Ahmedabad",1346
+"Indira Nagar,Lucknow",1324
+"Madipakkam,Chennai",1322
+"Nigdi,Pune",1319
+"Gandhinagar,Ahmedabad",1319
+Ranchi,1302
+"Tarnaka, Nacharam & Malkajigiri,Hyderabad",1301
+"Vanasthalipuram,Hyderabad",1296
+"Sector 15_FBD,Gurgaon",1295
+Central-goa,1290
+"Chandkheda,Ahmedabad",1287
+"South Extension,Delhi",1279
+"Chukkuwala,Dehradun",1274
+"Kirti Nagar,Delhi",1270
+"Attapur,Hyderabad",1268
+"Tambaram,Chennai",1267
+"Chrompet,Chennai",1260
+Gorakhpur,1248
+"Hazratganj,Lucknow",1247
+"Urapakkam,Chennai",1246
+"T Nagar,Chennai",1245
+"Bhawar Kuan,Indore",1243
+"Nandanvan,Nagpur",1227
+"Mahadevpura,Bangalore",1225
+"Paltan Bazaar,Guwahati",1224
+"Maninagar,Ahmedabad",1222
+"Jayanagar,Bangalore",1221
+"Akota,Vadodara",1216
+Bareilly,1213
+"Swargate,Pune",1200
+Adityapur,1173
+"Banashankari,Bangalore",1166
+"Behala,Kolkata",1163
+"Virar,Mumbai",1163
+"Airoli,Mumbai",1155
+Meerut,1152
+"Panchkula,Chandigarh",1116
+"OMR Perungudi,Chennai",1112
+"Greenfields_FBD,Gurgaon",1111
+"Mysore North,Mysore",1091
+"Matunga Wadala,Mumbai",1091
+"South Campus,Delhi",1084
+"Dharampeth,Nagpur",1074
+"Sinhgad Road,Pune",1071
+"Geddalahalli,Bangalore",1065
+"Fort Colaba,Mumbai",1058
+"Mysore South,Mysore",1051
+"Narhe,Pune",1046
+Gwalior,1039
+Pondicherry,1031
+"Bhayandar,Mumbai",1025
+"Kondapur,Hyderabad",1009
+"Kharkhana & Trimulgherry,Hyderabad",1008
+"Ghatlodia,Ahmedabad",985
+"CV Raman Nagar,Bangalore",982
+"Ambattur,Chennai",973
+"Nagavara & Hennur,Bangalore",966
+"East Chd,Chandigarh",965
+"Burrabazar,Kolkata",964
+"Jubilee Hills,Hyderabad",960
+"Nungambakkam,Chennai",956
+"Santoshpur,Kolkata",954
+"Alipore,Kolkata",937
+"Bally,Kolkata",935
+"Vadiwadi,Vadodara",933
+Sultanpur,924
+"Aundh,Pune",923
+"OMR Navalur,Chennai",921
+"Battarahalli,Bangalore",916
+"Dugri,Ludhiana",915
+"Begumpet,Hyderabad",914
+Rohtak,910
+Thiruvananthapuram,905
+"Basaveshwaranagar,Bangalore",899
+"Bavdhan,Pune",891
+Kolhapur,887
+Trichy,887
+"Kamothe,Mumbai",882
+"Connaught Place,Delhi",881
+"South Mohali,Chandigarh",880
+"Karappakam,Chennai",863
+"Hopes,Coimbatore",860
+"Old Palasia,Indore",856
+"Tolichowki,Hyderabad",855
+Siliguri,855
+Guntur,850
+Jabalpur,842
+"George Town,Chennai",840
+"Sector-14,Gurgaon",832
+Tirupati,819
+"Sangvi,Pune",819
+"R.T. Nagar,Bangalore",813
+"Yeshwanthpur,Bangalore",798
+"Panampilly Nagar,Kochi",794
+Aligarh,789
+"GOTA,Ahmedabad",788
+Tirupur,782
+Salem,781
+Jhansi,762
+"Santoshnagar & Saidabad,Hyderabad",760
+Hisar,758
+"Royapettah,Chennai",753
+Ajmer,750
+Kozhikode,739
+"MVP Colony,Vizag",734
+"Kalyani Nagar,Pune",731
+"Kadugodi,Bangalore",730
+Erode,722
+"Frazer Town,Bangalore",721
+Cuttack,707
+Anand,706
+"Naranpura,Ahmedabad",704
+Thrissur,699
+"Vishrantwadi,Pune",698
+"Arumbakkam,Chennai",698
+"Manasarovar,Jaipur",695
+"Kompally,Hyderabad",689
+"Mahalaxmi Malabar Hill,Mumbai",688
+"NIT_FBD,Gurgaon",683
+Hubli,675
+"Manish Nagar,Nagpur",669
+Mangaluru,664
+Nellore,662
+Bhilai,661
+Mansa,657
+Vellore,657
+Belgaum,648
+"Kumaraswamy Layout & Uttarahalli,Bangalore",647
+"West Chd,Chandigarh",646
+"Nanakramguda,Hyderabad",643
+"Kanakapura Road,Bangalore",642
+"Paldi & Ambawadi,Ahmedabad",641
+"Purasawalkam,Chennai",631
+Panipat,630
+"Ameerpet,Hyderabad",630
+"Gajuwaka,Vizag",628
+"New Palasia,Indore",623
+"Saravanampatti,Coimbatore",613
+"Aminabad,Lucknow",601
+"Punjabi Bagh,Delhi",600
+"Sai Baba Colony,Coimbatore",597
+Bathinda,595
+"ECR-Kottivakkam,Chennai",595
+Solapur,582
+"Villivakkam,Chennai",581
+"Sitabuldi,Nagpur",580
+Morbi,573
+"Koregaon Park,Pune",570
+Yamuna-nagar,567
+"Warje,Pune",560
+Bilaspur,557
+Anantapur,554
+"N A D,Vizag",549
+"Guindy,Chennai",548
+Kakinada,547
+"Iyyapanthangal,Chennai",547
+Thanjavur,543
+"Mylapore,Chennai",541
+Karnal,540
+"Poonamallee,Chennai",535
+Agartala,534
+"Ramanathapuram,Coimbatore",533
+Bokaro,530
+"Majestic,Bangalore",530
+"Mahindra World City,Chennai",524
+"Avadi,Chennai",518
+"Gandhipuram,Coimbatore",517
+Haldwani,517
+"Egmore,Chennai",510
+"Sarafa,Indore",507
+"Mehdipatnam,Hyderabad",502
+Manipal,501
+Alwar,500
+"Padur,Chennai",493
+Bahadurgarh,492
+"Kilpauk,Chennai",489
+"Old Delhi,Delhi",488
+"Bajaj Nagar,Nagpur",475
+Mathura,474
+Kollam,473
+"Alwal,Hyderabad",469
+Rajahmundry,467
+"BRS Nagar,Ludhiana",459
+Sangli,454
+Ambala,447
+Sirsa,446
+"Peelamedu,Coimbatore",442
+Durgapur,441
+Jamnagar,440
+"Coi_Ganapathy,Coimbatore",436
+"Wardha Road,Nagpur",435
+Jorhat,434
+Tirunelveli,432
+Asansol,432
+Haridwar,429
+Bhagalpur,428
+Kurukshetra,426
+Bhavnagar,421
+Sikar,419
+Phagwara,418
+Amravati,412
+Sagar,411
+Rewa,395
+"KK Nagar,Chennai",392
+Gandhidham,391
+Saharanpur,390
+Sonipat,388
+"Civil Lines,Ludhiana",383
+Faizabad,378
+Firozpur,378
+Muzaffarpur,377
+"Ramapuram,Chennai",377
+"Gandhibagh,Nagpur",372
+Hoshiarpur,369
+Thoothukudi,369
+Akola,368
+"Kestopur,Kolkata",367
+Mehsana,367
+Pathankot,364
+Berhampur,363
+Kurnool,363
+Kumbakonam,357
+Nagercoil,355
+Davanagere,354
+Balasore,353
+Latur,352
+Daman,351
+"Bbd,Lucknow",348
+Kottayam,346
+Halol,346
+Tumakuru,345
+"Thrippunithura,Kochi",344
+"Khan Market,Delhi",343
+Ujjain,343
+"Esplanade,Kolkata",342
+Gaya,341
+"Perumbakkam,Chennai",339
+Chandrapur,337
+Rishikesh,337
+Kadapa,335
+Puri,335
+Nadiad,335
+"Abids & Koti,Hyderabad",334
+Bhiwadi,333
+Palakkad,332
+Karur,332
+"South Tukoganj,Indore",332
+Shivamogga,330
+Namakkal,329
+Satna,329
+Shillong,329
+Darbhanga,329
+Solan,328
+Roorkee,326
+Kalady,326
+Jalgaon,325
+Eluru,324
+Shahjahanpur,324
+Ahmednagar,323
+Purnea,321
+Valsad,321
+Muzaffarnagar,320
+Ballari,320
+Kota,319
+Wardha,319
+Rourkela,318
+Rewari,317
+Karad,316
+Kannur,316
+Ratlam,315
+Kanchrapara,314
+Ongole,313
+Khammam,312
+Nanded,312
+Bharatpur,312
+Deoghar,310
+Jammu,310
+Bhiwani,310
+"Thakurpukur,Kolkata",309
+Bardhaman,309
+Gondia,307
+Nizamabad,306
+"Ashiyana,Lucknow",304
+Rudrapur,304
+Junagadh,304
+Karimnagar,304
+Dindigul,303
+Sambalpur,302
+Dibrugarh,301
+Sangrur,301
+Hassan,301
+Dhar,300
+Habra,299
+Sri-ganganagar,298
+Bhilwara,298
+Baddi,295
+Chitradurga,294
+Kashipur,294
+Lonavala,293
+"Hatibagan,Kolkata",291
+Alappuzha,291
+"Race Course,Coimbatore",290
+Imphal,290
+Ratnagiri,289
+Khanna,288
+Moradabad,287
+Bharuch,286
+Karaikkudi,285
+Virudhunagar,284
+Satara,283
+Tiruvannamalai,282
+Pudukkottai,282
+Kalaburagi,281
+"Shantinagar,Bangalore",280
+Thiruvallur,280
+Lakhimpur,275
+Barnala,275
+Bhimavaram,275
+Firozabad,273
+Moga,272
+"Aluva,Kochi",271
+"Greater Kailash New,Delhi",265
+Etawah,262
+Dharmapuri,261
+Kharagpur,261
+Chhindwara,258
+Vizianagaram,256
+Tezpur,252
+Navsari,252
+Sivakasi,252
+Proddatur,251
+Madanapalle,249
+Orai,248
+Changanassery,246
+Cuddalore,244
+Sivasagar,242
+"Fort Kochi,Kochi",240
+Jind,240
+Rae-bareli,240
+Nagaon,240
+Batala,238
+Mandya,237
+Farrukhabad,235
+Dhule,233
+Mancherial,232
+Kapurthala,230
+Jaunpur,230
+"Kalamassery,Kochi",229
+Silchar,228
+Ropar,228
+Budaun,225
+Machilipatnam,224
+Pali,224
+Mahbubnagar,223
+Ambikapur,222
+Hapur,222
+Jamshedpur,221
+Abohar,221
+Bagdogra,220
+Nandyal,220
+Rampur,218
+Rajapalayam,216
+Bulandshahr,216
+Mirzapur,216
+Sitapur,216
+Srikakulam,215
+Krishnagiri,213
+Ooty,212
+Yavatmal,211
+"Hinjewadi Phase-3,Pune",210
+Berhampore,209
+Hanumangarh,208
+Jalpaiguri,207
+Katni,206
+Begusarai,206
+Beed,205
+Kaithal,203
+Kothamanagalam,202
+Vidisha,201
+Bharabanki,201
+Ambur,199
+Bijapur,196
+"Vyttila,Kochi",195
+Faridkot,195
+"Naktala,Kolkata",194
+Porbandar,193
+Malda,192
+Arrah,191
+Azamgarh,189
+Chittoor,189
+Rajkot,187
+Chhatarpur,186
+Bhuj,186
+Beawar,185
+Kotdwar,185
+Chidambaram,183
+Banda,183
+Muktsar,183
+Dumka,182
+Nalgonda,181
+Basti,179
+Purulia,178
+Dewas,177
+Motihari,176
+Duliajan,176
+Veraval,176
+Karunagappaly,173
+Siddipet,172
+Bhusawal,168
+Hoshangabad,168
+Kovilpatti,167
+Chittorgarh,167
+Korba,167
+Patiala,166
+Pilibhit,166
+Palampur,165
+Raichur,164
+Chikmagalur,164
+Biharsharif,164
+Tadepalligudem,163
+Ankleshwar,158
+Tinsukia,158
+Himmatnagar,158
+Fatehabad,158
+Modinagar,157
+Samastipur,157
+Hospet,156
+Baramati,155
+Bongaigaon,154
+Chhapra,154
+Parbhani,153
+Dimapur,153
+Katihar,152
+"Kachiguda,Hyderabad",151
+Siwan,151
+Jhunjhunu,151
+Hardoi,150
+Fatehpur,150
+Khandwa,150
+Gudivada,149
+Gangapur-city,149
+Guna,148
+Jagdalpur,148
+Aurangabad_bihar,147
+Bijnor,146
+Medinipur,146
+Neemuch,143
+Ramanathapuram,142
+Kishangarh,140
+Narnaul,139
+Gonda,139
+Ramagundam,136
+Bahraich,136
+Bettiah,136
+Bardoli,135
+Jagraon,135
+Alipurduar,135
+Raigarh,134
+Pusad,134
+Mandsaur,134
+Theni,133
+Kolar,133
+Fatehgarh-sahib,133
+Gurdaspur,131
+Surendranagar-dudhrej,131
+Adoni,131
+Betul,131
+Shivpuri,129
+Ichalkaranji,129
+Burhanpur,129
+Chikkaballapur,128
+Munger,127
+Nangal,127
+Dharamshala,126
+Rajnandgaon,125
+Bidar,125
+Tanuku,124
+Tenkasi,124
+Balurghat,124
+Mughalsarai,124
+Madhubani,123
+Kopargaon,123
+Dahod,123
+Chalakkudy,123
+Mayiladuthurai,119
+"Kidderpore,Kolkata",118
+Bhandara,117
+Kunnamkullam,117
+Maunath-bhanjan,116
+Suratgarh,116
+Cooch-behar,114
+Bapatlachirala,114
+Chengannur,114
+Jagtial,114
+Bela-pratapgarh,112
+Palani,111
+"Model Town,Ludhiana",110
+Malout,109
+"Suncity & Bandlaguda,Hyderabad",109
+Silvassa,109
+Thiruvarur,108
+Cherthala,107
+Kumarakom,107
+Malegaon,107
+Saharsa,106
+Uran-islampur,104
+Jhalawar,104
+Doddaballapura,103
+Barshi,103
+Perinthalmanna,102
+Golaghat,102
+Kottarakkara,101
+Amreli,101
+Narasaraopet,101
+Osmanabad,99
+Giridih,99
+Bhadohi,98
+Adilabad,97
+Raiganj,96
+Balaghat,96
+Aizawl,96
+"West Marredpally,Hyderabad",96
+Vyara,95
+Pala,94
+Nagda,93
+Morena,93
+"Kankurgachi,Kolkata",92
+Barmer,92
+Raghunathpur,92
+Tuni,91
+Rajsamand,90
+Gopalganj,90
+Suryapet,89
+Gauriganj,89
+Nainital,89
+Chakdaha,89
+Narsinghpur,88
+Guntakal,88
+Lalitpur,87
+Kishanganj,87
+Chalisgaon,87
+Tadpatri,86
+Dehri,86
+Itarsi,86
+Khamgaon,85
+Udgir,85
+Kannauj,83
+Washim,83
+Buxar,82
+Madikeri,82
+Kavali,81
+Warangal,81
+Waidhan,80
+Kendujhar,79
+Kodaikanal,79
+Bhind,79
+Raniganj,79
+Baran,78
+Miryalaguda,78
+Bhatkal,78
+Balrampur,78
+Thalassery,76
+Shikohabad,76
+Neyveli,75
+Varkala,75
+Godhra,75
+Irinjalakuda,74
+Kanyakumari,73
+Nabadwip,72
+Gadag-betigeri,72
+Balangir,72
+Thodupuzha,72
+Jahanabad,71
+Hindaun,70
+Shimla,69
+Hansi,68
+Jhargram,68
+Arakkonam,68
+Dausa,67
+Kottakkal,67
+Sehore,66
+Churu,66
+Kadiri,65
+Palanpur,65
+"Tangra,Kolkata",63
+Muvattupuzha,62
+"Dhankawadi,Pune",62
+Ranaghat-wb,62
+Sirsi,62
+Chikhli,62
+Bhawanipatna,61
+Buldana,61
+Fazilka,61
+Nagapattinam,60
+Rayachoty,59
+Bolpur,59
+Shrirampur,59
+Kamareddy,58
+Bagalkot,58
+Hinganghat,58
+Nirmal,57
+Dhoraji,57
+Markapur,56
+Bongaon,54
+Moodbidri,53
+Krishnanagar,53
+Visnagar,52
+Mandi-dabwali,51
+Ramanagara,51
+Haldia,50
+Tohana,50
+Aruppukottai,49
+Sindhanur,49
+Manjeri,49
+Chiplun,49
+Arambagh,48
+Malappuram,48
+Sangamner,48
+Singrauli,48
+"New Sohna Road,Gurgaon",46
+Chandausi,46
+Sasaram,46
+South-goa,46
+Nandurbar,45
+Kadayanallur,44
+Chopda,44
+Basirhat,44
+Diu,44
+Tiptur,43
+"Alambagh,Lucknow",43
+"Wanowrie,Pune",42
+Vapi,41
+Gokak,41
+Kayamkulam,41
+Puttur,39
+Barwani,39
+Bhadrachalam,38
+Sawai-madhopur,38
+Dharwad,37
+"Balanagar & Idpl,Hyderabad",37
+Mussoorie,37
+"New Cyber City,Gurgaon",36
+Naraingarh,35
+Karwar,35
+"New DLF Phase 4,Gurgaon",35
+Bundi,35
+Koppal,34
+Gadwal,33
+"LalDarwaja,Ahmedabad",31
+Jalaun,31
+Bodhan-rural,28
+Nipani,28
+Uluberia,28
+Gangtok,27
+Bantwal,27
+Kothagudem,26
+"Lulu Mall,Kochi",25
+"Royapuram,Chennai",25
+Kundapura,23
+Lonavla,23
+Kasaragod,21
+"Nampally,Hyderabad",21
+Budhwal,20
+Srivilliputhur,18
+Thiruvalla,18
+"Jakhan,Dehradun",18
+Tarn-taran-sahib,17
+"Greater Noida,Delhi",17
+"Bopodi,Pune",15
+Kumta,14
+"Science City,Ahmedabad",13
+"North Dumdum,Kolkata",11
+Bodinayakanur,11
+"Rajajinagar,Bangalore",11
+Bilimora,10
+Darjeeling,9
+Murshidabad,9
+Dahanu,9
+"Sector 18,Delhi",8
+Ranibennur,8
+"Padmarao Nagar,Hyderabad",7
+Dhanbad,7
+"Race Course Dehradun,Dehradun",6
+Mandi-gobindgarh,5
+Hampi,5
+Itanagar,5
+Boisar,4
+"Alkapuri,Vadodara",4
+Rangpo,4
+"Mahim Dadar,Mumbai",4
+"Starbucks_BKC,Mumbai",4
+"Jagadamba Junction,Vizag",4
+Kohima,4
+"BBK_MayurVihar,Delhi",4
+"Noida Expressway,Delhi",3
+"Alwarpet,Chennai",3
+Naharlagun,3
+Manali,3
+Mount-abu,2
+"BBK_Chattarpur,Delhi",1
